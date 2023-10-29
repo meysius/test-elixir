@@ -184,4 +184,7 @@ defmodule Test do
     put_elem(map, y, new_y_row)
   end
 
+  def test do
+    IO.puts "Testing Elixir"
+  end
 end
