@@ -185,6 +185,6 @@ defmodule Test do
   end
 
   def test do
-    IO.puts "Testing Elixir"
+    IO.puts "Testing Elixir 2"
   end
 end
