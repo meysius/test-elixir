@@ -187,8 +187,4 @@ defmodule Test do
   def test do
     IO.puts "Testing Elixir 3"
   end
-
-  def test2 do
-    IO.puts "Testing Elixir 4"
-  end
 end
